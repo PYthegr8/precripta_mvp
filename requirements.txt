@@ -1,0 +1,9 @@
+os
+openai
+streamlit
+streamlit-webrtc
+av
+opencv-python-headless
+requests
+beautifulsoup4
+python-dotenv
